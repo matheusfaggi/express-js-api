@@ -1,0 +1,5 @@
+{
+  "verbose": true,
+  "ignore": ["node_modules", "pg_data", "README.md"],
+  "watch": ["app", "Server.js"]
+}
